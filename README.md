@@ -6,7 +6,7 @@
 * Engineered my data using TFIDF Vectorizers
 * Optimized Logistic Regression using RandomSearchCV to reach the best model
 
-# Project 2: Develop an Machine Learning model to predict Fare of Airlines at various Routes :Project Overview
+# [Project 2: Develop an Machine Learning model to predict Fare of Airlines at various Routes :Project Overview](https://github.com/AminOtusanya/Amin_Portfolio/blob/main/Flight%20time%20predictions.ipynb)
 * Created a tool to predict flight prices based on the various routes & airlines used 
 * Got the data from "Data Science Real World Porjects" on Udemy 
 * Engineered my data from csv to python & converted strings to machine understanding language 

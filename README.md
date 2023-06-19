@@ -7,7 +7,7 @@
 * Optimized Linear, Lasso, Random Forest Regressors using GridsearchCV to reach the best model. 
 * Built a client facing API using flask 
 
-# [Project 2: Developed a Machine Learning model to predict Fare of Airlines at various Routes :Project Overview](https://github.com/AminOtusanya/Amin_Portfolio/blob/main/Flight%20time%20predictions.ipynb)
+# [Project 2: Developed a machine Learning model to predict Fare of Airlines at various Routes :Project Overview](https://github.com/AminOtusanya/Amin_Portfolio/blob/main/Flight%20time%20predictions.ipynb)
 * Created a tool to predict flight prices based on the various routes & airlines used 
 * Got the data from "Data Science Real World Projects" on Udemy 
 * Engineered my data from csv to python & converted strings to machine understanding language 
